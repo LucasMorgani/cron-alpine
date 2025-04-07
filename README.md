@@ -1,1 +1,2 @@
-# cron-alpine
+Ao tentar realizar tarefas com o cron em um container, me deparei com uma dificuldade: Diferente de sistemas operacionais completos (como Ubuntu, Debian, etc..) o cron na maioria dos containeres não funciona nativamente, por serem mais enxutos.
+Portanto, no intuito de ajudar os novatos (assim como eu), [neste link para o Medium](https://medium.com/@morganis1411/utilizando-cron-em-container-b28b04b30fcc), estarei dando um passo a passo detalhado de como conseguir utiliza-lo.
